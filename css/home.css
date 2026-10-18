@@ -1,0 +1,162 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.conteiner{
+    max-width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.imgp{
+    padding-left: 80px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+header{
+    padding-top: 45px;
+    background-color: #04394b;
+    padding-bottom: 33px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-list{
+    display: flex;
+    gap: 50px;
+    color: white;
+}
+
+.nav-link{
+font-family: Inter;
+font-weight: 600;
+font-size: 18px;
+line-height: 100%;
+text-decoration-style: solid;
+text-decoration-thickness: 0%;
+color: #A1B5BB;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+.contact-btn{
+padding: 15px 35px;
+font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 28.8px;
+letter-spacing: 0%;
+background: #145E76;
+color: white;
+border: none;
+border-radius: 30px;
+}
+
+#nav-open {
+  display: none;
+  background-color: red;
+}
+
+#navbar-responsive {
+  background-color: red;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  bottom: 0;
+  align-items: center;
+  width: 100%;
+  transition: 0.5s;
+}
+
+#navbar-close {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  background-color: red;
+  cursor: pointer;
+}
+
+.home-section{
+    display: flex;
+}
+
+.home{
+    background-color: #04394b;
+}
+
+.home-left{
+    padding-top: 150px;
+}
+
+.musa-btn{
+padding: 15px 35px;
+font-family: Schoolbell;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+background: #145E76;
+color: white;
+border-radius: 100px;
+padding-left: 40px;
+}
+
+.me-btn{
+padding: 15px 35px;
+font-family: Inter;
+font-weight: 600;
+font-size: 18px;
+line-height: 28.8px;
+letter-spacing: 0%;
+background: #FFA63A;
+color: white;
+border-radius: 100px;
+}
+
+.wor-btn{
+font-family: Inter;
+font-weight: 600;
+font-size: 18px;
+line-height: 28.8px;
+letter-spacing: 0%;
+color: #B6CDD4;
+background: #04394b;
+padding-left: 40px;
+border: none;
+}
+
+.home-left h1{
+font-family: Inter;
+font-weight: 700;
+font-size: 64px;
+line-height: 80px;
+letter-spacing: 0%;
+color: white;
+margin-top: 20px;
+margin-bottom: 30px;
+padding-left: 40px;
+}
+
+.pos{
+font-family: Inter;
+font-weight: 400;
+font-size: 18px;
+line-height: 28.8px;
+letter-spacing: 0%;
+color: #849499;
+padding: 30px;
+}

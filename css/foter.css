@@ -1,0 +1,120 @@
+.container{
+max-width: 1170px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.logo{
+width: 39px;
+height: 36px;
+color:#08546C;
+
+}
+
+.pol{
+width: 28px;
+height: 36px;
+color: #08546C;
+}
+
+.xp{
+    padding-top: 100px;
+}
+
+.non{
+width: 344px;
+height: 84px;
+font-family: Inter;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+color:#757575;
+padding-top: 30px;
+padding-bottom: 272px;
+}
+
+.pages{
+width: 71px;
+height: 28px;
+font-family: Inter;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0%;
+color: #08546C;
+padding-top: 105px;
+padding-left: 90px;
+}
+
+.maw-las{
+width: 100px;
+height: 28px;
+font-family: Inter;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+color: #787878;
+padding-top: 161px;
+}
+
+.ser{
+width: 71px;
+height: 28px;
+font-family: Inter;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0%;
+color: #08546C; 
+padding-top: 105px;
+padding-left: 90px;
+}
+
+.maw-tas{
+width: 102px;
+height: 28px;
+font-family: Inter;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+color: #787878;
+padding-top: 164px;
+}
+
+.contac{
+width: 92px;
+height: 28px;
+font-family: Inter;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0%;
+color: #08546C; 
+padding-top: 108px;
+padding-left: 90px;
+}
+
+.maw-sas{
+width: 166px;
+height: 28px;
+font-family: Inter;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+color: #787878;
+padding-top: 160px;
+}
+
+.dav{
+    display: flex;
+}
+
+.forma{
+    display: flex;
+    padding-right: 50px;
+    padding-bottom: 192px;
+}

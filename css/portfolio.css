@@ -1,0 +1,129 @@
+.container{
+max-width: 1170px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.fool{
+font-family: Inter;
+font-weight: 600;
+font-size: 45px;
+line-height: 56.25px;
+letter-spacing: 0%;
+color: #08546C;
+background: white;
+border: none;
+padding-top: 200px;
+padding-left: 50px;
+}
+
+.nom{
+font-family: Inter;
+font-weight: 400;
+font-size: 18px;
+line-height: 28.8px;
+letter-spacing: 0%;
+color: #757575;
+padding-top: 10px;
+width: 569px;
+height: 58px;
+}
+
+.portfol{
+    align-items: center;
+    padding-left: 300px;
+}
+
+.container{
+max-width: 1170px;
+padding-top: 60px;    
+}
+
+h6{
+font-family: Inter;
+font-weight: 600;
+font-size: 30px;
+line-height: 28.8px;
+letter-spacing: 0%;
+color: #08546C;
+padding-top: 40px;
+}
+
+.naw{
+width: 426px;
+height: 77px;
+font-family: Inter;
+font-weight: 400;
+font-size: 16px;
+line-height: 25.6px;
+letter-spacing: 0%;
+color:#757575;
+padding-top: 10px;
+}
+
+.med{
+font-family: Inter;
+font-weight: 500;
+font-size: 18px;
+line-height: 25.6px;
+letter-spacing: 0%;
+color:#08546C;
+}
+
+.red{
+font-family: Inter;
+font-weight: 500;
+font-size: 18px;
+line-height: 25.6px;
+letter-spacing: 0%;
+color:#FFA800;
+}
+
+.conten{
+    display: flex;
+    gap: 40px;
+}
+
+.flex{
+    padding-top: 70px;
+    padding-bottom: 200px;
+}
+
+.h6{
+width: 168px;
+height: 29px;
+font-family: Inter;
+font-weight: 600;
+font-size: 30px;
+line-height: 28.8px;
+letter-spacing: 0%;
+color:#08546C;
+padding-top: 40px;
+}
+
+.man{
+width: 426px;
+height: 77px;
+font-family: Inter;
+font-weight: 400;
+font-size: 16px;
+line-height: 25.6px;
+letter-spacing: 0%;
+color:#757575;
+padding-top: 10px;
+}
+
+.flex{
+    display: flex;
+    gap: 40px;
+}
+
+.ler{
+font-family: Inter;
+font-weight: 500;
+font-size: 18px;
+line-height: 25.6px;
+letter-spacing: 0%;
+color: #08546C;
+padding-top: 20px;
+}

@@ -1,0 +1,49 @@
+.container{
+max-width: 1170px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.statistic{
+    padding-bottom: 54px;
+    padding-right: 92px;
+    padding-left: 64px;
+}
+
+.wast{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-stat{
+font-family: Inter;
+font-weight: 600;
+font-size: 24px;
+line-height: 22.4px;
+letter-spacing: 0%;
+color: #265A6A;
+border: none;
+padding: 79px;
+padding-left: 500px;
+}
+
+.vast{
+font-family: Inter;
+font-weight: 600;
+font-size: 48px;
+line-height: 22.4px;
+letter-spacing: 0%;
+color: #08546C;
+padding-left: 30px;
+}
+
+.vas{
+font-family: Inter;
+font-weight: 400;
+font-size: 18px;
+line-height: 22.4px;
+letter-spacing: 0%;
+color:#08546C;
+padding: 26px;
+}

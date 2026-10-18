@@ -1,0 +1,39 @@
+.container{
+    max-width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.blog{
+width: 1920;
+height: 730;
+background-color:#04394b; 
+padding-top: 102px;
+padding-bottom: 102px;
+}
+
+.managed{
+width: 585px;
+height: 151px;
+font-family: Inter;
+font-weight: 500;
+font-size: 16px;
+line-height: 25.6px;
+letter-spacing: 0%;
+color:#FFFFFF;
+}
+
+.compani{
+width: 285px;
+height: 26px;
+font-family: Inter;
+font-weight: 400;
+font-size: 16px;
+line-height: 25.6px;
+letter-spacing: 0%;
+color:#AABFC6;
+}
+
+.word{
+    display: flex;
+}

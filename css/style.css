@@ -1,0 +1,13 @@
+@import url("../css/about.css");
+@import url("../css/blog.css");
+@import url("../css/foter.css");
+@import url("../css/home.css");
+@import url("../css/portfolio.css");
+@import url("../css/service.css");
+
+
+.container{
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
